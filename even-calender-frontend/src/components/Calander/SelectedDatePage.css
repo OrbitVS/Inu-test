@@ -1,0 +1,43 @@
+.event-page-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .event-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .event-list li {
+    padding: 5px;
+    background-color: #f4f4f4;
+    margin: 5px;
+    border-radius: 5px;
+  }
+  
+  .event-input,
+  .event-time-picker {
+    padding: 8px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  .save-event-btn {
+    padding: 8px 16px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-right: 5px;
+  }
+  
+  .back-btn {
+    padding: 8px 16px;
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  

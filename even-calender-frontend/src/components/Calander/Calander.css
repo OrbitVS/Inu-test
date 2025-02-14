@@ -1,0 +1,19 @@
+.calendar-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .event-dot {
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .add-event-btn {
+    border: none;
+    background: none;
+    font-size: 16px;
+    cursor: pointer;
+    color: blue;
+  }
+  
